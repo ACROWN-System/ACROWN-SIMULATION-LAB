@@ -1,6 +1,6 @@
 # ACROWN-SIMULATION-LAB
 
-**Reviewed baseline:** `main` at `35f150a971f7500812f1657e53a2a27a0f23700d`  
+**Reviewed main tree SHA:** `35f150a971f7500812f1657e53a2a27a0f23700d`  
 **Current status:** scaffold; no executable simulation or result evidence was present in that baseline.
 
 ## Purpose
